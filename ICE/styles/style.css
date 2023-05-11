@@ -1,0 +1,40 @@
+body {
+    background-color:pink;
+    color: white;
+    padding: 0 33% 0 33%;
+    margin: 50px auto;
+}
+header {
+    text-align: center;
+    margin: 10px auto;
+}
+.title {
+    font-size: 2em;
+}
+.title:hover {
+    color: black;
+}
+header p {
+    font-size: .75em;
+}
+main {
+    text-align: center;
+}
+main ol {
+    text-align: left;
+    color: black;
+    font-weight: bold;
+}
+img {
+    width: 40%;
+    text-align: center;
+}
+.quote {
+    margin: 10% auto;
+    padding: 0 10% 0 10%;
+    font-size: 2.5em;
+}
+footer {
+    color: black;
+    text-align: center;
+}
