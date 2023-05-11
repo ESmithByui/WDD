@@ -2,12 +2,12 @@ body {
     background-color: #F1F7ED;
     color: #242038;
 }
-h4 {
-    color: #00B2CA;
-}
 #content {
     max-width: 1600px;
     margin: 0 auto;
+}
+h4 {
+    color: #00B2CA;
 }
 header {
     background-color: #242038;
