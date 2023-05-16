@@ -8,6 +8,7 @@ nav, footer {
 footer p {
     font-size: 20px;
     margin: 20px auto;
+    padding:25px;
 }
 a:hover {
     background-color: white;
@@ -17,9 +18,11 @@ img {
     width: 80%;
     display: block;
     margin: 0 auto;
+    border: 4px solid steelblue;
 }
 h1 {
     text-align: center;
+    margin: 50px 0;
 }
 main p {
     width: 80%;
@@ -31,4 +34,11 @@ p {
 }
 a {
     font-size: 1.5em;
+    padding: 25px;
+}
+nav {
+    padding:25px;
+}
+body {
+    margin: 0;
 }
