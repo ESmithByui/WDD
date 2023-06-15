@@ -1,0 +1,51 @@
+body {
+    max-width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #292b2f;
+}
+#container {
+    border-radius: 20px;
+    background-color: white;
+    overflow: hidden;
+}
+img {
+    width: 100%;
+}
+.blue_text {
+    color: steelblue;
+    font-size: .8em;
+    margin-top: 15px;
+}
+h1 {
+    margin-top: -10px;
+}
+.awesome {
+    padding: 10px 30px 10px 30px;
+    color: burlywood;
+}
+footer {
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1px;
+}
+.read {
+    background-color: steelblue;
+}
+.views {
+    background-color: steelblue;
+}
+.comments {
+    background-color: steelblue;
+}
+h2 {
+    color:white;
+    font-size: .9999999em;
+}
+.small {
+    color: white;
+    margin-top: -10px;
+    padding-bottom: 10px;
+    font-size: .5em;
+}
